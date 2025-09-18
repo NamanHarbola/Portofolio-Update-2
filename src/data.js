@@ -31,7 +31,7 @@ export const projects = [
   },
   {
     id: 3,
-    Title: "Professional Credit Management System",
+    Title: "Professional Credit Management And Entry System",
     Img: "/credit.png", // Replace with an actual image path
     Description: "A fully responsive credit management website for all type of vendor who works on credit entry, add customer and amount entry to save entry.",
     Link: "https://credit-management-frontend.onrender.com/",
@@ -44,6 +44,21 @@ export const projects = [
   },
   {
     id: 4,
+    Title: "Professional E-Commerce Website For Madan Store",
+    Img: "/Ecommerce.png", // Replace with an actual image path
+    Description: "A fully responsive E-commerce store to sell products online with proper razorpay payment integration, Features secure google auth user login/signup, 2 live panels one for admin one for users.",
+    Link: "https://madan-electricalsfrontend.vercel.app/",
+    Github: "https://github.com/NamanHarbola/madan_electricals.git",
+    TechStack: ["React.js", "TailwindCSS", "Node.js", "Express", "MongoDB", "Razorpay", "Cloudnary", "GoogleAuth"],
+    Features: [
+      "User login/signup",
+        "Admin profiles for adding products",
+        "Order listing for admin",
+        "Razorpay integration for payments"
+    ],
+  },
+  {
+    id: 5,
     Title: "GreenCart Online Grocery Delivery Website",
     Img: "/GreenCart.png", // Replace with an actual image path
     Description: "A fully responsive grocery delivery website, similar to Blinkit and Instamart, for ordering fresh vegetables and groceries.",
