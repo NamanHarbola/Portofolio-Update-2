@@ -18,6 +18,32 @@ export const projects = [
   },
   {
     id: 2,
+    Title: "Professional Rack & Inventory Management System",
+    Img: "/rack.png", // Replace with an actual image path
+    Description: "A fully responsive rack management and locating website for retailers to add items and rack and find their location/rack number by searching them.",
+    Link: "https://rack-management-frontend.onrender.com/",
+    Github: "https://github.com/NamanHarbola/Rack-Management.git",
+    TechStack: ["React.js", "CSS", "Node.js", "Express", "MongoDB"],
+    Features: [
+      "Fully responsive rack management system",
+      "Retailers friendly",
+    ],
+  },
+  {
+    id: 3,
+    Title: "Professional Credit Management System",
+    Img: "/credit.png", // Replace with an actual image path
+    Description: "A fully responsive credit management website for all type of vendor who works on credit entry, add customer and amount entry to save entry.",
+    Link: "https://credit-management-frontend.onrender.com/",
+    Github: "https://github.com/NamanHarbola/Credit-Management.git",
+    TechStack: ["React.js", "CSS", "Node.js", "Express", "MongoDB"],
+    Features: [
+      "Fully responsive credit management system",
+      "Credit user friendly",
+    ],
+  },
+  {
+    id: 4,
     Title: "GreenCart Online Grocery Delivery Website",
     Img: "/GreenCart.png", // Replace with an actual image path
     Description: "A fully responsive grocery delivery website, similar to Blinkit and Instamart, for ordering fresh vegetables and groceries.",
