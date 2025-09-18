@@ -94,12 +94,13 @@ const SocialLink = memo(({ icon: Icon, link }) => (
 const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
-const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
-const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
+const WORDS = ["Frontend Developer", "Tech Enthusiast"];
+const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind CSS"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/ankitpathak62" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/ankitpathak62/" },
-  { icon: Instagram, link: "https://www.instagram.com/sunfiresensei/" },
+  { icon: Github, link: "https://github.com/NamanHarbola" },
+  // Add your other social links here
+  // { icon: Linkedin, link: "https://www.linkedin.com/in/your-profile/" },
+  // { icon: Instagram, link: "https://www.instagram.com/your-profile/" },
 ];
 
 const Home = () => {
@@ -211,8 +212,7 @@ const Home = () => {
                   data-aos="fade-up"
                   data-aos-delay="1000"
                 >
-                  Menciptakan Website Yang Inovatif, Fungsional, dan
-                  User-Friendly untuk Solusi Digital.
+                  Creating innovative, functional, and user-friendly websites for digital solutions.
                 </p>
 
                 {/* Tech Stack */}

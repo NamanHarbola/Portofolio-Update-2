@@ -226,7 +226,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Kabir Singh
+                Naman Harbola
               </span>
             </h2>
 
@@ -235,13 +235,14 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga sunt consectetur rem obcaecati est. Corrupti, aut mollitia. Maxime vitae consectetur voluptatem voluptatibus in. Saepe sequi earum quis temporibus modi blanditiis illo delectus iusto doloremque unde.
+              A passionate and detail-oriented front-end developer with a strong foundation in modern web technologies. Skilled in building responsive and user-friendly web interfaces. Looking to contribute to a dynamic team while continuing to grow and learn in the field of web development.
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
               <a
-                href=""
+                href="/Naman Harbola CV.docx.pdf" // Link to your CV
                 className="w-full lg:w-auto"
+                download
               >
                 <button
                   data-aos="fade-up"
