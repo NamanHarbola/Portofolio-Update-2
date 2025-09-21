@@ -47,7 +47,7 @@ export const projects = [
     Title: "Professional E-Commerce Website For Madan Store",
     Img: "/Ecommerce.png", // Replace with an actual image path
     Description: "A fully responsive E-commerce store to sell products online with proper razorpay payment integration, Features secure google auth user login/signup, 2 live panels one for admin one for users.",
-    Link: "https://madan-electricalsfrontend.vercel.app/",
+    Link: "https://madanelectricals.com/",
     Github: "https://github.com/NamanHarbola/madan_electricals.git",
     TechStack: ["React.js", "TailwindCSS", "Node.js", "Express", "MongoDB", "Razorpay", "Cloudnary", "GoogleAuth"],
     Features: [
